@@ -83,5 +83,5 @@ ProAthlete est une plateforme e-commerce moderne spécialisée dans la vente d'a
 #### 1. Téléchargement
 ```bash
 # Clonez ou téléchargez les fichiers
-git clone https://github.com/votre-repo/proathlete.git
+git clone https://github.com/mohafa949/proathlete.git
 cd proathlete
