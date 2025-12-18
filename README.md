@@ -5,7 +5,6 @@
 
 ## 📋 Table des Matières
 - [Description](#-description)
-- [Structure du Projet](#-Structure-du-Projet)
 - [Fonctionnalités](#-fonctionnalités)
 - [Technologies](#-technologies)
 - [Installation](#-installation)
@@ -27,51 +26,6 @@ ProAthlete est une plateforme e-commerce moderne spécialisée dans la vente d'a
 - Gestion admin complète
 - Pas de compte utilisateur requis
 - Langue : Français
-
-## 📁 Structure du Projet
-proathlete/
-├── 📂 assets/                  # Ressources statiques
-│   ├── 📂 css/
-│   │   └── style.css          # Feuille de styles principale
-│   ├── 📂 js/
-│   │   └── script.js          # JavaScript côté client
-│   └── 📂 images/
-│       ├── 📂 products/       # Images des produits
-│       └── logo.png          # Logo du site
-│
-├── 📂 layouts/                # Templates communs
-│   ├── header.php            # En-tête de page
-│   ├── footer.php            # Pied de page
-│   └── admin_header.php      # En-tête admin
-│
-├── 📂 client/                 # Pages côté client
-│   ├── index.php             # Page d'accueil
-│   ├── products.php          # Liste des produits
-│   ├── product_detail.php    # Détail d'un produit
-│   ├── about.php             # Page À propos
-│   └── submit_order.php      # Traitement commande
-│
-├── 📂 admin/                  # Panneau d'administration
-│   ├── login.php             # Connexion admin
-│   ├── logout.php            # Déconnexion
-│   ├── dashboard.php         # Tableau de bord
-│   ├── products.php          # Gestion produits
-│   ├── add_product.php       # Ajout produit
-│   ├── edit_product.php      # Modification produit
-│   ├── categories.php        # Gestion catégories
-│   └── orders.php            # Gestion commandes
-│
-├── 📂 config/                 # Configuration
-│   └── database.php          # Connexion base de données
-│
-├── 📂 sql/                    # Scripts SQL
-│   ├── proathlete.sql        # Structure complète
-│   └── sample_data.sql       # Données d'exemple
-│
-├── index.php                 # Point d'entrée
-├── .htaccess                 # Réécriture d'URL
-├── LICENSE                   # Licence MIT
-└── README.md                 # Ce fichier
 
 
 ## ✨ Fonctionnalités
