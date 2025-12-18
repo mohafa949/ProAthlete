@@ -1,7 +1,6 @@
 
 # 🏆 ProAthlete - E-commerce Sport
 
-![ProAthlete Banner](https://via.placeholder.com/1200x400/000000/ffffff?text=ProAthlete+Sport+E-commerce)
 
 ## 📋 Table des Matières
 - [Description](#-description)
